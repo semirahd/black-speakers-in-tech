@@ -126,6 +126,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Tech Leadership, Apache
 - Location - Atlanta, Georgia
 
+#### Semirah Dolan
+
+- [@semirahd](http://twitter.com/semirahd)
+- [Semirah's LinkedIn](https://www.linkedin.com/in/semirahdolan/)
+- [Semirah's Youtube](https://www.youtube.com/channel/UCTCIXZvGRcyq6N4ySAQDh7w)
+- Topics - Blockchain, Open Source, Professional Development (Linkedin, Resumes, Etc.), Building Community
+- Location - Semirah, MA, USA
+- Languages besides English - English, Spanish, a little bit of Albanian and French
+
 #### Rhia Dixon
 
 - [@TheFakeRiRi](http://twitter.com/TheFakeRiRi)
